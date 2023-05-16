@@ -116,4 +116,4 @@ Set prefix
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![KhrlMstfa](https://telegra.ph/file/8a1c663c84751c10baf65.jpg?size=20)](https://github.com/RullDev)
+* [`KhrlMstfa`](https://github.com/Khrlmstfa)
