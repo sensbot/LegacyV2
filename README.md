@@ -8,26 +8,19 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 
 ## PENTING
 
-> **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
-Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Sesi Bisa Pakai main.js.bak yg sudah saya sediakan
+> **Warning**: Script Ini Memakai Single Session (Buka Multi)
 
-<h1 align="center">RullBOT - MD</h1>
+<h1 align="center">Legacy-MD V2</h1>
 <p align="center">
-  <a href="https://github.com/RullDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Rull+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+RullSenpai;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/khrlmstfa"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Rull+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+RullSenpai;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="RullBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Legacy-MD V2" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RullDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/khrlmstfa"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KhrlMstfa-green.svg?style=for-the-badge&logo=github"></a>
 
----------
-
-## ```Connect With Me 📞``` 
-
-## ```Whatsapp``` <a href="https://wa.me/6287753812675"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287753812675) 
 ---------
 
 ### a little about this bot
@@ -35,6 +28,8 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 - ✔️ | **Button Template** 
 - ✔️ | **Multi Device** 
 - ✔️ | **Button Document(Experiment)** 
+- ✔️ | **Openai Image**
+- ✔️ | **Genshin Menu**
 ---------
 ### Some of the features include
 - ✔️ | Downloader 
@@ -51,19 +46,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 - ✔️ | Exec 
 - ✔️ | React 
 - ✔️ | Menfess Balas
----------
-
-## ```For User Panel, Buy Panel In This Number```
-[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285692006004) 
----------
-
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ImYanXiao/Elaina-MultiDevice)
-
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
-
+    
 ---------
 
 ## ```Nama Session```
